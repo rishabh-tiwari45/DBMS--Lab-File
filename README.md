@@ -6,12 +6,13 @@ This repository contains the complete lab experiments for Database Management Sy
 
 ## 📚 List of Experiments
 
-| Exp No. | Title / Topic | File Link | Description / Aim |
-| :---: | :--- | :--- | :--- |
-| **03** | **Relational Database Design & Basic Queries** | [DBMS_Experiment_03.md](./DBMS_Experiment_03.md) | Create Employee–Department–Project database, populate with 30 employees, 5 departments, and 8 projects. Demonstrate Selection, Projection, Aggregate Functions, GROUP BY, HAVING, CASE, and ORDER BY. |
-| **04** | **Complex Joins, Subqueries & Query Execution Plans** | [DBMS_Experiment_04.md](./DBMS_Experiment_04.md) | Demonstrate INNER JOIN, LEFT JOIN, self-join, 3-way join, correlated subqueries, EXISTS, simulated INTERSECT and EXCEPT. Compare execution plans using EXPLAIN. |
-| **05** | **Views & Recursive CTEs** | [DBMS_Experiment_05.md](./DBMS_Experiment_05.md) | Create department salary summary and employee hierarchy views, evaluate view updatability rules, and implement recursive Common Table Expressions (CTE) for employee reporting chains. |
-| **06** | **Stored Procedures, Triggers & Transactions** | [DBMS_Experiment_06.md](./DBMS_Experiment_06.md) | Implement `transfer_employee` stored procedure with input validation, transaction rollback/commit, salary validation trigger, and audit logging triggers. |
+| Exp No. | Title / Topic | Markdown File | PDF Download | Description / Aim |
+| :---: | :--- | :--- | :--- | :--- |
+| **03** | **Relational Database Design & Basic Queries** | [DBMS_Experiment_03.md](./DBMS_Experiment_03.md) | [Download PDF](./pdf/DBMS_Experiment_03.pdf) | Create Employee–Department–Project database, populate with 30 employees, 5 departments, and 8 projects. Demonstrate Selection, Projection, Aggregate Functions, GROUP BY, HAVING, CASE, and ORDER BY. |
+| **04** | **Complex Joins, Subqueries & Query Execution Plans** | [DBMS_Experiment_04.md](./DBMS_Experiment_04.md) | [Download PDF](./pdf/DBMS_Experiment_04.pdf) | Demonstrate INNER JOIN, LEFT JOIN, self-join, 3-way join, correlated subqueries, EXISTS, simulated INTERSECT and EXCEPT. Compare execution plans using EXPLAIN. |
+| **05** | **Views & Recursive CTEs** | [DBMS_Experiment_05.md](./DBMS_Experiment_05.md) | [Download PDF](./pdf/DBMS_Experiment_05.pdf) | Create department salary summary and employee hierarchy views, evaluate view updatability rules, and implement recursive Common Table Expressions (CTE) for employee reporting chains. |
+| **06** | **Stored Procedures, Triggers & Transactions** | [DBMS_Experiment_06.md](./DBMS_Experiment_06.md) | [Download PDF](./pdf/DBMS_Experiment_06.pdf) | Implement `transfer_employee` stored procedure with input validation, transaction rollback/commit, salary validation trigger, and audit logging triggers. |
+| **ALL** | **Complete Manual (All Experiments)** | — | [Download Combined PDF](./pdf/All_DBMS_Experiments_Rishabh.pdf) | Complete consolidated lab report containing all 4 experiments with cover page. |
 
 ---
 
@@ -22,6 +23,12 @@ This repository contains the complete lab experiments for Database Management Sy
 ├── DBMS_Experiment_04.md          # Experiment 4 Lab Document
 ├── DBMS_Experiment_05.md          # Experiment 5 Lab Document
 ├── DBMS_Experiment_06.md          # Experiment 6 Lab Document
+├── pdf/                           # Ready-to-download PDF Reports
+│   ├── All_DBMS_Experiments_Rishabh.pdf
+│   ├── DBMS_Experiment_03.pdf
+│   ├── DBMS_Experiment_04.pdf
+│   ├── DBMS_Experiment_05.pdf
+│   └── DBMS_Experiment_06.pdf
 ├── images/                        # Query output execution screenshots
 │   ├── experiment_03/
 │   ├── experiment_04/
