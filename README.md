@@ -27,8 +27,4 @@ This repository contains the complete lab experiments for Database Management Sy
 │   ├── experiment_04/
 │   ├── experiment_05/
 │   └── experiment_06/
-├── DBMS 3_Rishabh.docx            # Original Experiment 3 document
-├── DBMS_Experiment_04_Rishabh.docx # Original Experiment 4 document
-├── DBMS_Experiment_05_Views_CTE_Rishabh.docx # Original Experiment 5 document
-└── DBMS_Experiment_06_P_Rishabh.docx # Original Experiment 6 document
 ```
